@@ -41,7 +41,6 @@ a {
     transition: scale 0.3s;
     font-size: 1.5em;
     font-weight: bold;
-    box-shadow: 0 0 5px black;
 }
 
 a:hover {
