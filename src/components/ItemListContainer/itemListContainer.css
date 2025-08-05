@@ -1,0 +1,8 @@
+.itemlist-container {
+    min-height: 90vh;
+    width: 75vw;
+    background-color: gainsboro;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
